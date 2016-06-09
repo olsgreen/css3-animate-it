@@ -1,0 +1,20 @@
+{
+  "name": "animate-it",
+  "version": "1.0.3",
+  "description": "CSS3 Animate-it",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olsgreen/css3-animate-it"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "animate",
+    "animation"
+  ],
+  "contributors": [
+    "Jack McCourt",
+    "Oliver Green"
+  ],
+  "license": "MIT"
+}
